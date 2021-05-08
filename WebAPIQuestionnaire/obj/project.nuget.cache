@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m33vVOD0kmjGYImAxJWwV1rM6gx+pCp+gGUgeKGLiXHGN2hhNJeGMae/oonrBNTg553KgErUDJz98wzmZg6cxg==",
+  "success": true,
+  "projectFilePath": "C:\\My\\Repo\\WebAPIQuestionnaire\\WebAPIQuestionnaire\\WebAPIQuestionnaire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U6075380\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\U6075380\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\U6075380\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "C:\\Users\\U6075380\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\U6075380\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\U6075380\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
+    "C:\\Users\\U6075380\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
